@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorPickerView">
+        <attr name="boxSize" format="dimension"/>
+        <attr name="boxGap" format="dimension" />
+        <attr name="boxStroke" format="dimension" />
+    </declare-styleable>
+</resources>
