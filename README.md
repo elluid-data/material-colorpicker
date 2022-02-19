@@ -21,5 +21,5 @@ xml styleables:
         }` - to listen to changes.  
 
 Screenshots:
-![Image One](https://github.com/elluid-data/material-colorpicker/blob/assets/colorpicker1.png)  
+![Image One](https://github.com/elluid-data/material-colorpicker/blob/assets/colorpicker.png)  
 ![Image Two](https://github.com/elluid-data/material-colorpicker/blob/assets/colorpicker2.png)
